@@ -1,0 +1,58 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 323 166" width="1217" height="625">
+	<style>
+		.s0 { fill: #ffffff;stroke: #1a1a1a;stroke-width: 3.1 } 
+		.s1 { fill: none;stroke: #40e2a0;stroke-width: 3.1 } 
+		.s2 { fill: none;stroke: #ff69f8;stroke-width: 3.1 } 
+		.s3 { fill: none;stroke: #ff6666;stroke-width: 3.1 } 
+		.s4 { fill: none;stroke: #7cb2e8;stroke-linejoin: bevel;stroke-width: 3.1 } 
+		.s5 { fill: #000000;stroke: #666666;stroke-width: 3.1 } 
+		.s6 { fill: none;stroke: #666666;stroke-width: 3.1 } 
+		.s7 { fill: none;stroke: #666666;stroke-linejoin: bevel;stroke-width: 3.1 } 
+	</style>
+	<g id="g286">
+		<g id="g258">
+			<path id="circle254" fill-rule="evenodd" class="s0" d="m278.99 154.44c-17.94 0-32.44-14.51-32.44-32.44 0-17.94 14.5-32.44 32.44-32.44 17.94 0 32.44 14.5 32.44 32.44 0 17.93-14.5 32.44-32.44 32.44z"/>
+			<path id="path256" class="s1" d="m278.5 102.11l-17.93 31.9h36.77z"/>
+		</g>
+		<g id="g264">
+			<path id="circle260" fill-rule="evenodd" class="s0" d="m200.99 154.44c-17.94 0-32.44-14.51-32.44-32.44 0-17.94 14.5-32.44 32.44-32.44 17.94 0 32.44 14.5 32.44 32.44 0 17.93-14.5 32.44-32.44 32.44z"/>
+			<path id="rect262" fill-rule="evenodd" class="s2" d="m185.51 106.51h30.96v30.97h-30.96z"/>
+		</g>
+		<g id="g270">
+			<path id="circle266" fill-rule="evenodd" class="s0" d="m123 154.44c-17.94 0-32.44-14.51-32.44-32.44 0-17.94 14.5-32.44 32.44-32.44 17.93 0 32.44 14.5 32.44 32.44 0 17.93-14.51 32.44-32.44 32.44z"/>
+			<path id="circle268" fill-rule="evenodd" class="s3" d="m123 140.38c-10.17 0-18.39-8.22-18.39-18.38 0-10.17 8.22-18.39 18.39-18.39 10.16 0 18.38 8.22 18.38 18.39 0 10.16-8.22 18.38-18.38 18.38z"/>
+		</g>
+		<g id="g284">
+			<path id="circle272" fill-rule="evenodd" class="s0" d="m45 154.44c-17.94 0-32.44-14.51-32.44-32.44 0-17.94 14.5-32.44 32.44-32.44 17.94 0 32.44 14.5 32.44 32.44 0 17.93-14.5 32.44-32.44 32.44z"/>
+			<g id="g282">
+				<path id="path274" class="s4" d="m45 122l14.96 14.95z"/>
+				<path id="path276" class="s4" d="m45 122l-14.96 14.95z"/>
+				<path id="path278" class="s4" d="m45 122l14.96-14.96z"/>
+				<path id="path280" class="s4" d="m45 122l-14.96-14.96z"/>
+			</g>
+		</g>
+	</g>
+	<g id="g26603">
+		<g id="g26533">
+			<path id="circle5303" fill-rule="evenodd" class="s5" d="m278.99 76.44c-17.94 0-32.44-14.5-32.44-32.44 0-17.94 14.5-32.44 32.44-32.44 17.94 0 32.44 14.5 32.44 32.44 0 17.94-14.5 32.44-32.44 32.44z"/>
+			<path id="path1027" class="s6" d="m278.5 24.11l-17.93 31.91h36.77z"/>
+		</g>
+		<g id="g26540">
+			<path id="path4751" fill-rule="evenodd" class="s5" d="m200.99 76.44c-17.94 0-32.44-14.5-32.44-32.44 0-17.94 14.5-32.44 32.44-32.44 17.94 0 32.44 14.5 32.44 32.44 0 17.94-14.5 32.44-32.44 32.44z"/>
+			<path id="rect2069" fill-rule="evenodd" class="s6" d="m185.51 28.52h30.96v30.96h-30.96z"/>
+		</g>
+		<g id="g26547">
+			<path id="circle5476" fill-rule="evenodd" class="s5" d="m123 76.44c-17.94 0-32.44-14.5-32.44-32.44 0-17.94 14.5-32.44 32.44-32.44 17.93 0 32.44 14.5 32.44 32.44 0 17.94-14.51 32.44-32.44 32.44z"/>
+			<path id="path1692" fill-rule="evenodd" class="s6" d="m123 62.38c-10.17 0-18.39-8.22-18.39-18.38 0-10.17 8.22-18.38 18.39-18.38 10.16 0 18.38 8.21 18.38 18.38 0 10.16-8.22 18.38-18.38 18.38z"/>
+		</g>
+		<g id="g26558">
+			<path id="circle5593" fill-rule="evenodd" class="s5" d="m45 76.44c-17.94 0-32.44-14.5-32.44-32.44 0-17.94 14.5-32.44 32.44-32.44 17.94 0 32.44 14.5 32.44 32.44 0 17.94-14.5 32.44-32.44 32.44z"/>
+			<g id="g2328">
+				<path id="path2318" class="s7" d="m45 44l14.96 14.96z"/>
+				<path id="path2320" class="s7" d="m45 44l-14.96 14.96z"/>
+				<path id="path2236" class="s7" d="m45 44l14.96-14.96z"/>
+				<path id="path2322" class="s7" d="m45 44l-14.96-14.96z"/>
+			</g>
+		</g>
+	</g>
+</svg>
